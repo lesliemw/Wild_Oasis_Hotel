@@ -30,6 +30,7 @@
 </ul>
 
 
+
 <h1>Welcome to the Wild Oasis Hotel.</h1>
 
 <h2>Here you will find 8 beautiful and modern cabins located in the tranquil and scenic national forest. </h2>
