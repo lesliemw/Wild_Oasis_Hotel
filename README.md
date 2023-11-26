@@ -22,6 +22,7 @@ When logged in the user can also change profile details such as name and passwor
 <img width="1444" alt="Screenshot 2023-11-26 at 16 22 45" src="https://github.com/lesliemw/Wild_Oasis_Hotel/assets/114259884/f302fdf5-693c-4dc2-b7f7-9071412c99af">
 
 Lastly, there is a dark and light mode feature that can be toggled. On first load, however, it detects the user's preference as per system settings.
+
 <img width="599" alt="Screenshot 2023-11-26 at 16 24 46" src="https://github.com/lesliemw/Wild_Oasis_Hotel/assets/114259884/21f11752-f31e-44b4-aaa6-4335f12a9bb8">
 
 
