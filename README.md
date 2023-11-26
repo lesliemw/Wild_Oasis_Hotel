@@ -2,7 +2,7 @@
 <ul>
 <li>Created using react + vite @v2.5.0</li>
 <li>Database implemented using Supabase</li>
-<li>check out the live site: [[my-wild-oasis-hotel.netlify.app]https://my-wild-oasis-hotel.netlify.app/login] </li>
+<li>check out the live site: https://my-wild-oasis-hotel.netlify.app/login </li>
 </ul>
 
 **Resources used**
