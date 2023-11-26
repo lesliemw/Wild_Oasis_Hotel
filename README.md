@@ -21,6 +21,12 @@
   <li>
     react-error-boundary
   </li>
+  <li>
+    @supabase/supabase-js
+  </li>
+  <li>
+    date-fns
+  </li>
 </ul>
 
 
