@@ -11,8 +11,8 @@
   </li>
   <li>
     react-query
-  </li><
-  li>
+  </li>
+  <li>
     react-icons
   </li>
   <li>
