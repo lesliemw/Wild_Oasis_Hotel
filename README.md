@@ -61,7 +61,7 @@
 
 <hr>
 
-<h4>This website included a high level of security on the website, as well as row level security on the database data. One authorized user has been set up on the database, and that person must first be logged in to see an data on the website. To create additional users, there must be an authorized person logged in. There is no option to create a new user if no one is logged in. When a new user is created, they must verify their email address before they can log in and use the site.</h4>
+<h4>This website included a high level of security on the website, as well as row level security on the database data. One authorized user has been set up on the database, and that person must first be logged in to see any data on the website. To create additional users, there must be an authorized person logged in. There is no option to create a new user if no one is logged in. When a new user is created, they must verify their email address before they can log in and use the site.</h4>
 
 <img width="668" alt="Screenshot 2023-11-26 at 16 52 35" src="https://github.com/lesliemw/Wild_Oasis_Hotel/assets/114259884/2f67e648-bfbc-475b-86e2-cfdf73c907f6">
 <br>
