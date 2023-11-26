@@ -1,4 +1,10 @@
-Welcome to the Wild Oasis Hotel.
+**Important details**
+-Created using react + vite @v4.5.0 .
+-Database implemented using Supabase.
+
+
+
+<h1>Welcome to the Wild Oasis Hotel.</h1>
 
 Here you will find 8 beautiful and modern cabins located in the tranquil and scenic national forest.
 
@@ -24,6 +30,8 @@ When logged in the user can also change profile details such as name and passwor
 Lastly, there is a dark and light mode feature that can be toggled. On first load, however, it detects the user's preference as per system settings.
 
 <img width="599" alt="Screenshot 2023-11-26 at 16 24 46" src="https://github.com/lesliemw/Wild_Oasis_Hotel/assets/114259884/21f11752-f31e-44b4-aaa6-4335f12a9bb8">
+
+
 
 
 **This project was made as part of a react course **
