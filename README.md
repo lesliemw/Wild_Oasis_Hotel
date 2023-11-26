@@ -4,6 +4,25 @@
 <li>Database implemented using Supabase</li>
 </ul>
 
+**Resources used**
+<ul>
+  <li>
+    react-hot-toast
+  </li>
+  <li>
+    react-query
+  </li><
+  li>
+    react-icons
+  </li>
+  <li>
+    react-recharts@2
+  </li>
+  <li>
+    react-error-boundary
+  </li>
+</ul>
+
 
 <h1>Welcome to the Wild Oasis Hotel.</h1>
 
