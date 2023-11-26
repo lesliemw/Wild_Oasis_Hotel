@@ -6,7 +6,8 @@
 
 <h1>Welcome to the Wild Oasis Hotel.</h1>
 
-<h2>Here you will find 8 beautiful and modern cabins located in the tranquil and scenic national forest. While exploring this website, you will find a variety of features. On the dashboard screen, you will find daily activities, as well as weekly/monthly/and 3 monthly statistics.</h2>
+<h2>Here you will find 8 beautiful and modern cabins located in the tranquil and scenic national forest. </h2>
+<p>While exploring this website, you will find a variety of features. On the dashboard screen, you will find daily activities, as well as weekly/monthly/and 3 monthly statistics.</p>
 <img width="1444" alt="Screenshot 2023-11-26 at 16 12 30" src="https://github.com/lesliemw/Wild_Oasis_Hotel/assets/114259884/f5982a99-ddbc-4785-981e-302122f23467">
 
 <h2>On the side, you will find a menu of options. You can explore the cabins page, which gives information on each cabin. This includes price, and max capacity.</h2>
