@@ -12,7 +12,7 @@ Next, you can look through past, present, and future bookings. The data stored i
 <img width="1444" alt="Screenshot 2023-11-26 at 16 12 45" src="https://github.com/lesliemw/Wild_Oasis_Hotel/assets/114259884/39b200ec-806e-458c-8f50-5ad9bfa3f548">
 <img width="1444" alt="Screenshot 2023-11-26 at 16 13 04" src="https://github.com/lesliemw/Wild_Oasis_Hotel/assets/114259884/e6f3a291-30a0-4c56-8561-6dc14042d6c0">
 
-Further down, you will find a section for settings. This is where you can change details such as breakfast price, mina dn max nights per booking, and max number of guests per booking.
+Further down, you will find a section for settings. This is where you can change details such as breakfast price, min and max nights per booking, and max number of guests per booking.
 <img width="1444" alt="Screenshot 2023-11-26 at 16 20 35" src="https://github.com/lesliemw/Wild_Oasis_Hotel/assets/114259884/4db3b35a-ff4f-4e03-8dd5-f96b03c49841">
 
 This website included a high level of security on the website, as well as row level security on the database data. One authorized user has been set up on the database, and that person must first be logged in to see an data on the website. To create additional users, there must be an authorized person logged in. There is no option to create a new user if no one is logged in. When a new user is created, they must verify their email address before they can log in and use the site.
