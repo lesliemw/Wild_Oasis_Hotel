@@ -15,6 +15,7 @@
 
 <h2>Next, you can look through past, present, and future bookings. The data stored in these booking include the name, email address, national id, which cabin was booked, dates of stay, number of nights per stay, whether they have paid or not, and what extras they require. This page is also where you can check a guest in or out.</h2>
 <img width="1444" alt="Screenshot 2023-11-26 at 16 12 45" src="https://github.com/lesliemw/Wild_Oasis_Hotel/assets/114259884/39b200ec-806e-458c-8f50-5ad9bfa3f548">
+<br>
 <img width="1444" alt="Screenshot 2023-11-26 at 16 13 04" src="https://github.com/lesliemw/Wild_Oasis_Hotel/assets/114259884/e6f3a291-30a0-4c56-8561-6dc14042d6c0">
 
 <h2>Further down, you will find a section for settings. This is where you can change details such as breakfast price, min and max nights per booking, and max number of guests per booking.</h2>
