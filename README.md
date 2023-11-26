@@ -44,6 +44,8 @@
 
 <img width="1449" alt="Screenshot 2023-11-26 at 16 51 43" src="https://github.com/lesliemw/Wild_Oasis_Hotel/assets/114259884/1b6f5555-c9c6-47d1-9bbe-3a418d10d422">
 
+<h4>You can click into each cabin to edit them. When you click to edit, a modal will pop up with the details.</h4>
+<img width="1365" alt="Screenshot 2023-11-26 at 17 22 41" src="https://github.com/lesliemw/Wild_Oasis_Hotel/assets/114259884/114e5d5c-bba2-429f-8330-fd18b45d7904">
 
 <hr>
 
