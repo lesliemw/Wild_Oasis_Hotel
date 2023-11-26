@@ -1,7 +1,8 @@
 **Important details**
--Created using react + vite @v4.5.0 .
--Database implemented using Supabase.
-
+<ul>
+<li>Created using react + vite @v4.5.0</li>
+<li>Database implemented using Supabase</li>
+</ul>
 
 
 <h1>Welcome to the Wild Oasis Hotel.</h1>
