@@ -4,6 +4,10 @@ const GlobalStyles = createGlobalStyle`
 
 :root {
 
+  ::-webkit-scrollbar {
+  display: none;
+}
+
 &, &.light-mode{
   /* Grey */
   --color-grey-0: #fff;
